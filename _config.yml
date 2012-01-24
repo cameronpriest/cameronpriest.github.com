@@ -1,6 +1,6 @@
-# This is the default format. 
+# This is the default format.
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:categories/:year/:month/:day/:title 
+permalink: /:categories/:year/:month/:day/:title
 auto: true
 pygments: true
 var:
@@ -9,14 +9,14 @@ var:
   tags_path : /tags.html
   rss_path: /atom.xml
 
-production_url : http://username.github.com # or your custom domain name
-title : Jekyll Boostrap
+production_url : http://cameronpriest.github.com # or your custom domain name
+title : Cameron Priest
 
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Cameron Priest
+  email : cameron@neuzee.com
+  github : cameronpriest
+  twitter : cameronpriest
   feedbuder : feedname
 
 exclude: .rbenv-version
